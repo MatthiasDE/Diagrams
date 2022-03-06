@@ -1,1 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T15:18:02.306Z" agent="5.0 (Windows)" etag="8TuVy8Mm0M3zweQ1udnu" version="16.6.6" type="github"><diagram id="UsTvpg3e6FbUqP7p5ZXo" name="Page-1">7VhbT9swGP01kbaHTs215ZG2wKRtElLRLo8mcROD4y9y3Bu/fnZi514orAgm8dT4+P6d7xzbtdx5urviKEt+QISp5YyjneUuLMexx64vfxSyL5HAGZdAzEmkG9XAkjxg01OjaxLhvNVQAFBBsjYYAmM4FC0McQ7bdrMV0PasGYpxD1iGiPbRXyQSSYlOnUmNf8UkTszMdnBW1qTINNY7yRMUwbYBuReWO+cAovxKd3NMVfBMXMp+lwdqq4VxzMQxHUZ3Z8yf/rzbfptejXgI2V24GWl2Noiu9YYtJ6ByvFlENvIzVp+Wez6jEN6HCSLM1MuJmk0GemnolneRj67/UdcidcXe6EFmcaY+lZAwly1WwMRS19uynGcoJCy+gUwBY4kIdGuk4+lyJRnbK4FryIkgwCRE8UrNnIiU6iF1jmIu8O5g8tuVpKQXYUix4HvZxHQ40yrUNuSOdXlbi9p3NZY0BR1oEGkjiauxa63JDy23Z0jPOUp6c8c6n4WQZsDUVmVxVpN3FJu9VscnhwGWKeJCrnUuueZIuuwzRu/kT4PWiEN2g3iMVajHp+HZcYM2z16fZ3s6wPPZa9HsDtB8QFMpRGuFze6wEHujmakBKtF4x8bqcN4dFkovXM5AtAzGMUWCbNpn5VAI9XzXQJioJxuZY1SzNWkPAKtVLpOjy0C16JeT4j1NSiNRM7XqYk3+zPIXCsGcyDUoA1wAFwnEwBC9rtHT5HLHszy/n8sD5ExfK5WD4x1L+gVZKad4G8O64YjlqDhQ3q1V+XaX3re2qsl7s6rgw6pG06dJ4bBmEY50atZ+9B3KS5hhRb+u0FpA+4KFWXSu3kqyyOQ9o0QuiVpoMWR+j0WYmAKseYgrr1uW9z1dKQqRHKjEOyJ+q+8vvi79KUqeO9Xlxa7RdLFvFBre2hAgjnqvt478ZKCK9T51GPSz7B8TZtJWt2fM24ygw1h2aj7bOuNUF1BjE1171yHvDnSq/DMu9VgCymHke1zlzTYhAivWVc2Wo6ydaIiSWN3xQ0lScUyiPCtf7SuyUxk84zgnD+i2GHk8ePbCWlDC8Lx68Pcy9ATmbPudqE+OO3vt1/Jm2+7RcLGRm/mUf+7RIbfdeUHlgsO9DBkFXmt8JQXegXr8qCCSENFzXZGSKKKHiG770ClYcPxO7vdZCAZYcF+NhaFHW1cMtZlChllpptp6ZX95mUB5UkTJbpPUDp8xS7tllf6jRnlCU9T7EubS88wjuimT4DQnsOe1JRl0jfBYRw3GTwz0YkeVxfr/vLJ5/a+oe/EX</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-06T15:18:29.853Z" agent="5.0 (Windows)" etag="v0HimYs_w7mHh8JilLi-" version="16.6.6" type="github">
+  <diagram id="UsTvpg3e6FbUqP7p5ZXo" name="Page-1">
+    <mxGraphModel dx="1242" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-j9n58VjwK8G-rcopjcv-5" value="&lt;div&gt;:Blockchain&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="300" width="530" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-j9n58VjwK8G-rcopjcv-2" value="&lt;div&gt;«component»&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Smart Contract&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="236" y="340" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-j9n58VjwK8G-rcopjcv-3" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="-j9n58VjwK8G-rcopjcv-2" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j9n58VjwK8G-rcopjcv-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="230" y="345" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-j9n58VjwK8G-rcopjcv-6" value="&lt;div&gt;«artifact»&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Transaction&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="340" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-j9n58VjwK8G-rcopjcv-7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="-j9n58VjwK8G-rcopjcv-6" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j9n58VjwK8G-rcopjcv-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-j9n58VjwK8G-rcopjcv-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="445" as="sourcePoint" />
+            <mxPoint x="160" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j9n58VjwK8G-rcopjcv-10" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="375" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-j9n58VjwK8G-rcopjcv-11" value="Event(s)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="125" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-j9n58VjwK8G-rcopjcv-12" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-j9n58VjwK8G-rcopjcv-2" target="-j9n58VjwK8G-rcopjcv-6" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="440" y="680" as="sourcePoint" />
+            <mxPoint x="600" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
